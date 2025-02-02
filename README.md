@@ -1,3 +1,45 @@
+# Calculator Application
+
+## Overview
+
+The Calculator Application is a lightweight and efficient tool designed to perform fundamental mathematical operations. Built using PHP and the Laravel Framework, it offers an intuitive interface, making it accessible for users of all levels. With essential features such as addition, subtraction, multiplication, and division, it ensures quick and accurate calculations. 
+
+This Project is part my Thesis at Dept of Computers, Informatics and Telecommunications Engineering of the International Hellenic University, under the supervision of Assistant Professor Tsimpiris Alkiviadis.
+
+All components and code are intended for educational purposes.
+
+## Features
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division
+
+Error handling for invalid inputs (e.g., division by zero)
+
+## Technologies Used
+
+PHP
+
+Laravel Framework for the graphical user interface
+
+
+## Future Improvements
+
+Implement scientific calculator functions
+
+Add a history feature to track calculations
+
+Improve UI design with modern styles
+
+
+# Contact
+
+For any questions or suggestions, feel free to reach out to me at myrsinistas@gmail.com or visit my LinkedIn Profile https://www.linkedin.com/in/myrsini-stasinou/
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -78,3 +120,5 @@ Shield: CC BY-SA 4.0
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 CC BY-SA 4.0
+
+
